@@ -1,6 +1,14 @@
 # punto_venta_dolores
 
-## RONDA 0
+## APP TERMINADA
+
+<img width="416" height="737" alt="image" src="https://github.com/user-attachments/assets/d9f600cd-2d48-4a29-bf5a-133b0a0f17f3" />
+
+
+<img width="418" height="731" alt="image" src="https://github.com/user-attachments/assets/a95bccdd-d49b-4a0e-ad7d-ee1700219cc9" />
+
+
+<img width="417" height="734" alt="image" src="https://github.com/user-attachments/assets/4ea8be61-64da-4922-b234-a0039399891f" />
 
 
 ## RONDA 1
