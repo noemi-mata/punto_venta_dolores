@@ -81,12 +81,11 @@ Pase
 
 Error
 
-<img width="390" height="221" alt="image" src="https://github.com/user-attachments/assets/e89ffc0d-ae13-4ded-a004-5973c12dc817" />
+<img width="1122" height="510" alt="imagen" src="https://github.com/user-attachments/assets/8d384dca-f196-4b93-bf65-3918c86b4db9" />
 
 Pase
 
-<img width="386" height="44" alt="image" src="https://github.com/user-attachments/assets/8135c30f-0f73-426b-9d30-bccf0d8fccf2" />
-
+<img width="660" height="66" alt="imagen" src="https://github.com/user-attachments/assets/781a7bec-6bfe-4848-8727-a6b25177a5a7" />
 
 ## RONDA 5
 
@@ -96,4 +95,68 @@ Error
 
 Pase
 
-<img width="387" height="29" alt="image" src="https://github.com/user-attachments/assets/6766ea84-be93-4738-9388-78f6665f8858" />
+<img width="658" height="60" alt="imagen" src="https://github.com/user-attachments/assets/ded6447d-0a14-42d4-ac01-8a88bd26f0cd" />
+
+## RONDA 6
+
+🔴ROJO
+
+<img width="1120" height="499" alt="imagen" src="https://github.com/user-attachments/assets/4e8390cc-605b-40c7-9380-53d4f1875b92" />
+
+🟢VERDE
+
+<img width="634" height="58" alt="imagen" src="https://github.com/user-attachments/assets/22dcc556-711f-4dcd-97ae-2de0faa78804" />
+
+## RONDA 7
+
+🔴ROJO
+
+<img width="1168" height="288" alt="imagen" src="https://github.com/user-attachments/assets/ae164c15-a7e0-473e-9ec0-7254baf78fe2" />
+
+🟢VERDE
+
+<img width="907" height="61" alt="imagen" src="https://github.com/user-attachments/assets/aa083d0f-b2e5-453e-837a-076236bb699c" />
+
+
+## RONDA 8
+
+🔴ROJO
+
+<img width="907" height="61" alt="imagen" src="https://github.com/user-attachments/assets/aa083d0f-b2e5-453e-837a-076236bb699c" />
+
+🟢VERDE
+
+<img width="910" height="55" alt="imagen" src="https://github.com/user-attachments/assets/427e5936-0ae1-4158-a0d0-5d7d73bc6cad" />
+
+
+## RONDA 9
+
+🔴ROJO
+
+<img width="1156" height="361" alt="imagen" src="https://github.com/user-attachments/assets/82f7f193-11e8-4650-b4e2-2f820001a90f" />
+
+🟢VERDE
+
+<img width="910" height="61" alt="imagen" src="https://github.com/user-attachments/assets/9ed73b63-10e9-499b-9613-e3103af29c79" />
+
+
+## RONDA 10
+
+🔴ROJO
+
+<img width="1153" height="499" alt="imagen" src="https://github.com/user-attachments/assets/a20085b8-2026-4109-9bfd-f4cbbb7bf1fe" />
+
+🟢VERDE
+
+<img width="916" height="58" alt="imagen" src="https://github.com/user-attachments/assets/d3131bbf-7918-4cbd-812f-698dc60e9c1f" />
+
+
+## RONDA 11
+
+🔴ROJO
+
+<img width="1159" height="505" alt="imagen" src="https://github.com/user-attachments/assets/053b846a-e86e-458a-8ec5-e98864cac443" />
+
+ 🟢VERDE
+
+<img width="915" height="61" alt="imagen" src="https://github.com/user-attachments/assets/96d3cd8e-2184-4b3c-bc3f-ffb72ca562df" />
