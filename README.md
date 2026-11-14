@@ -2,6 +2,8 @@
 
 ## APP TERMINADA
 
+<img width="697" height="1416" alt="imagen" src="https://github.com/user-attachments/assets/3591082c-07bb-46d2-a16d-5f5383416bb8" />
+
 <img width="416" height="737" alt="image" src="https://github.com/user-attachments/assets/d9f600cd-2d48-4a29-bf5a-133b0a0f17f3" />
 
 
